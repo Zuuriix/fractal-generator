@@ -72,4 +72,4 @@ zoom_mandelbrot = 1					# Zoom sur le fractal
 
 # Crédits
 
-- [Zuuriix](https://github.com/Zuuriix) : Créateur du projet.
+- [Hecht Axel](https://github.com/hecht-a) : Créateur du projet.
